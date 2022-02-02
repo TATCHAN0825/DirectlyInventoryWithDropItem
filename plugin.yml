@@ -1,0 +1,5 @@
+name: DirectlyInventoryWithDropItem
+version: 0.0.1
+main: tatchan\DirectlyInventoryWithDropItem\Main
+api: 4.0.0
+src-namespace-prefix: tatchan\DirectlyInventoryWithDropItem
